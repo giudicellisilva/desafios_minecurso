@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Componente from './Componente';
 import Counter from './componentes/Counter';
-import Form from './componentes/form';
+import Form from './componentes/Form';
 import FormDataDisplay from './componentes/FormDataDisplay';
 import { useState } from 'react';
 
